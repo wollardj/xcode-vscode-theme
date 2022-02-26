@@ -1,0 +1,26 @@
+{
+  "name": "xcode-13-dark",
+  "displayName": "Xcode 13 Dark",
+  "description": "Yet another attempt at getting an Xcode 13 dark theme ported to vscode",
+  "version": "1.0.0",
+  "publisher": "jwollard",
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wollardj/xcode-vscode-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xcode 13 Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xcode 13 Dark-color-theme.json"
+      }
+    ]
+  }
+}
