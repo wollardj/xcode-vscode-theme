@@ -2,7 +2,7 @@
   "name": "xcode-13-dark",
   "displayName": "Xcode 13 Dark",
   "description": "Yet another attempt at getting an Xcode 13 dark theme ported to vscode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "jwollard",
   "engines": {
     "vscode": "^1.64.0"
